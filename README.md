@@ -12,16 +12,18 @@ I build AI-powered automation systems for small businesses using Python, n8n, an
 ## Projects
 
 ### 1. Customer Support Chatbot
-A Python-based AI chatbot built with Groq API for a salon business.
+A Python-based AI chatbot built with Groq API, deployed in real-world scenarios for a salon business and a Toyota dealership.
 * **Features:** Custom business persona, conversation memory, handles FAQs.
 * **Tech:** Python, Groq API, LLaMA 3.1
 
 ### 2. Email Summarizer (Gmail → Telegram)
 An automated assistant that summarizes your daily emails and sends alerts directly to your phone.
 ![Email Summarizer](Workflow-demos/gmail-workflow.png)
+
 ### 3. Lead Classification System
 A smart system that filters incoming inquiries and qualifies leads before notifying you.
 ![Lead Classification](Workflow-demos/telegram-lead.png)
+
 ### 4. FAQ + Booking Agent
 An intelligent agent that handles customer questions and manages appointments directly in Google Sheets.
 ![Booking Agent Workflow](Workflow-demos/booking-agent-Workflow.png)
