@@ -25,7 +25,7 @@ A smart system that filters incoming inquiries and qualifies leads before notify
 ### 4. FAQ + Booking Agent
 An intelligent agent that handles customer questions and manages appointments directly in Google Sheets.
 ![Booking Agent Workflow](Workflow-demos/booking-agent-Workflow.png)
-![Booking Sheet Output](Workflow-demos/booking-agent-Workflow.png)
+![Booking Sheet Output](Workflow-demos/booking-agent-output.png)
 
 
 ## Contact
