@@ -1,19 +1,30 @@
-AI chatbots and automation workflows built with Python, Groq API, and n8n.
-# AI Agent Portfolio
+# AI Agent Portfolio — Ahsan Amir
 
-Welcome to my portfolio! I specialize in building custom AI agents and automation workflows to help small businesses save time and grow.
+I build AI-powered automation systems for small businesses using Python, n8n, and Groq API.
+
+## What I Can Build For You
+- AI customer support chatbots (answer FAQs 24/7)
+- Lead capture and classification systems
+- Email summarization and smart notifications
+- Booking/appointment automation
+- Custom workflow automation
 
 ## Projects
 
-### 🚗 Toyota Customer Support Agent
-A specialized AI agent designed for automotive dealerships.
-* **Features:** Handles inventory inquiries, answers frequently asked questions, and captures customer lead information.
-* **Tech Stack:** Python, Groq API (Llama 3.1), and automated lead logging.
+### 1. Customer Support Chatbot
+A Python-based AI chatbot built with Groq API for a salon business.
+* **Features:** Custom business persona, conversation memory, handles FAQs.
+* **Tech:** Python, Groq API, LLaMA 3.1
 
-### ✂️ Salon Virtual Receptionist
-An automated booking assistant for beauty salons.
-* **Features:** Acts as a 24/7 receptionist to help clients explore services, check pricing, and automate appointment bookings.
-* **Tech Stack:** n8n Workflow Automation, Python, and Google Sheets integration.
+### 2. Email Summarizer (Gmail → Telegram)
+An automated assistant that summarizes your daily emails and sends alerts directly to your phone.
+
+### 3. Lead Classification System
+A smart system that filters incoming inquiries and qualifies leads before notifying you.
+
+### 4. FAQ + Booking Agent
+An intelligent agent that handles customer questions and manages appointments directly in Google Sheets.
 
 ## Contact
-Interested in building an AI agent for your business? Feel free to reach out!
+Email: [ahsanamir4870@gmail.com]
+WhatsApp: [92+ 3297556811]
