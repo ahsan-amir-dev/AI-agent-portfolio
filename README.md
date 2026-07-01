@@ -18,10 +18,10 @@ A Python-based AI chatbot built with Groq API for a salon business.
 
 ### 2. Email Summarizer (Gmail → Telegram)
 An automated assistant that summarizes your daily emails and sends alerts directly to your phone.
-
+![Email Summarizer](workflow-demos/gmail-workflow.png)
 ### 3. Lead Classification System
 A smart system that filters incoming inquiries and qualifies leads before notifying you.
-
+![Lead Classification](workflow-demos/telegram-lead.png)
 ### 4. FAQ + Booking Agent
 An intelligent agent that handles customer questions and manages appointments directly in Google Sheets.
 
