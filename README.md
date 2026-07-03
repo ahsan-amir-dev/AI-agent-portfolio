@@ -22,7 +22,8 @@ An automated assistant that summarizes your daily emails and sends alerts direct
 
 ### 3. Lead Classification System
 A smart system that filters incoming inquiries and qualifies leads before notifying you.
-![Lead Classification](Workflow-demos/telegram-lead.png)
+![Lead Classification Workflow](Workflow-demos/lead_classification-Workflow.png)
+![Lead Classification Output](Workflow-demos/lead_classification-output.png)
 
 ### 4. FAQ + Booking Agent
 An intelligent agent that handles customer questions and manages appointments directly in Google Sheets.
